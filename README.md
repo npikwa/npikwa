@@ -1,7 +1,7 @@
 ![Black   White Modern Minimalist Data Analyst LinkedIn Banner (1)](https://github.com/user-attachments/assets/8032a76c-ffa9-4bf8-b832-967703644078)
 # 👋 Hello, I'm Hope!
 
-# 🚀 Banking Professional & Data Science Graduate focusing on applied Data Engineering
+# Banking Professional & Data Science Graduate focusing on Data Engineering
 📍 Johannesburg, South Africa
 📧 Email: npikwa@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/nolizwi-hope-pikwa/
