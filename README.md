@@ -14,21 +14,21 @@ Hope Pikwa is a dedicated and ambitious individual who recently completed her st
 
 **Standard Bank | Universal Banker**  
 *2021 – 2023*  
-- Sales, Service, and Advisory
+- Sales, Service, and Advisory  
 
-**Standard Bank | Client Liaison Officer** 
+**Standard Bank | Client Liaison Officer**  
 *2018 – 2021*  
-- Digital Banking, Beta Testing & Onboarding
-  
+- Digital Banking, Beta Testing & Onboarding  
+
 **First National Bank | Sales Consultant**  
 *2017 – 2018*  
-- Upselling, Cross-selling, and Servicing
-  
+- Upselling, Cross-selling, and Servicing  
+
 **Nedbank Ltd | Financial Planner**  
 *2017*  
 - Wealth and Estate Planning  
-- Financial Advisory
-  
+- Financial Advisory  
+
 **Absa Bank | Various Roles**  
 *2010 – 2016*  
 - Teller  
