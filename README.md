@@ -20,9 +20,9 @@ Fist National Bank | Sales Consultant | 2017 - 2018
 Nedbank Ltd | Financial Planner | 2017
 - Wealth and Estate Planning, and Financial Advisory
 Absa Bank | Various Roles | 2010 - 2016
-> Teller 
-> Sales and Service consulatant
-> Collections Consultant (early and late stage)
+> Teller | 
+> Sales and Service consulatant |
+> Collections Consultant (early and late stage) |
 > Email Administator
 
 ### Skills and Competencies
