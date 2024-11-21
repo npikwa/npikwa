@@ -11,27 +11,28 @@
 Hope Pikwa is a dedicated and ambitious individual who recently completed her studies in Data Science at ALX South Africa. With a strong passion for data analysis and problem-solving, Hope aspires to become a proficient data scientist/engineer, leveraging her skills to make a significant impact in the field. Prior to her pursuit of data science, Hope had an impressive career as a qualified financial adviser, accumulating over 12 years of experience in the banking sector.
 
 ### Professional Highlights
-### Work Experience
 
 **Standard Bank | Universal Banker**  
 *2021 – 2023*  
 - Sales, Service, and Advisory  
 *2018 – 2021*  
-- Digital Banking, Beta Testing & Onboarding  
+- Digital Banking, Beta Testing & Onboarding
+  
 **First National Bank | Sales Consultant**  
 *2017 – 2018*  
-- Upselling, Cross-selling, and Servicing  
+- Upselling, Cross-selling, and Servicing
+  
 **Nedbank Ltd | Financial Planner**  
 *2017*  
 - Wealth and Estate Planning  
-- Financial Advisory  
+- Financial Advisory
+  
 **Absa Bank | Various Roles**  
 *2010 – 2016*  
 - Teller  
 - Sales and Service Consultant  
 - Collections Consultant (Early and Late Stage)  
 - Email Administrator  
-
 
 ### Skills and Competencies
 - Problem Solving
