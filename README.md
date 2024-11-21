@@ -10,7 +10,7 @@
 ### About Nolizwi Hope Pikwa 
 Hope Pikwa is a dedicated and ambitious individual who recently completed her studies in Data Science at ALX South Africa. With a strong passion for data analysis and problem-solving, Hope aspires to become a proficient data scientist/engineer, leveraging her skills to make a significant impact in the field. Prior to her pursuit of data science, Hope had an impressive career as a qualified financial adviser, accumulating over 12 years of experience in the banking sector.
 
-###Professional Highlights
+### Professional Highlights
 Universal Banker @ Standard Bank - 2021 to 2023
 - Sales, Service and Advisory
 Client Liaison Officer @ Standard Bank - 2018 to 2021
