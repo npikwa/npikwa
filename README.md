@@ -2,10 +2,10 @@
 # 👋 Hello, I'm Hope!
 
 # Banking Professional & Data Science Graduate focusing on Data Engineering
-- 📍 Johannesburg, South Africa
-- 📧 Email: npikwa@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/nolizwi-hope-pikwa/
-- 👨‍💻 GitHub: [npikwa](https://github.com/npikwa)
+📍  Johannesburg, South Africa
+📧  Email: npikwa@gmail.com
+🔗  LinkedIn: https://www.linkedin.com/in/nolizwi-hope-pikwa/
+👨‍💻  GitHub: [npikwa](https://github.com/npikwa)
 
 ### About Nolizwi Hope Pikwa 
 Hope Pikwa is a dedicated and ambitious individual who recently completed her studies in Data Science at ALX South Africa. With a strong passion for data analysis and problem-solving, Hope aspires to become a proficient data scientist/engineer, leveraging her skills to make a significant impact in the field. Prior to her pursuit of data science, Hope had an impressive career as a qualified financial adviser, accumulating over 12 years of experience in the banking sector.
